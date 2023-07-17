@@ -1,0 +1,25 @@
+body{
+    background-color: ivory;
+}
+
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: blue;
+    border-width: 5px;
+    height: 0px;
+    width: 10%;
+}
+
+img{
+    height: 170px;
+    border-radius: 10px;
+}
+
+h1{
+    color: hsl(30, 100%, 50%);
+}
+
+h3{
+    color: blue;
+}
